@@ -4,12 +4,12 @@ An intelligent real estate chatbot for Al Badia Villas using Retrieval-Augmented
 
 ## Features
 
-- ✅ **Accurate Property Information**: Retrieves facts from floorplans PDF with zero hallucinations
-- ✅ **Multimodal Responses**: Returns relevant floorplan images alongside text responses
-- ✅ **Intelligent Lead Generation**: Detects buying signals and captures lead information naturally
-- ✅ **Citation-Based Responses**: Every claim is backed by PDF page references
-- ✅ **Conversation Continuity**: Session management maintains context across interactions
-- ✅ **Smart Guardrails**: Never invents pricing or availability - only provides documented facts
+- **Accurate Property Information**: Retrieves facts from floorplans PDF with zero hallucinations
+- **Multimodal Responses**: Returns relevant floorplan images alongside text responses
+- **Intelligent Lead Generation**: Detects buying signals and captures lead information naturally
+- **Citation-Based Responses**: Every claim is backed by PDF page references
+- **Conversation Continuity**: Session management maintains context across interactions
+- **Smart Guardrails**: Never invents pricing or availability - only provides documented facts
 
 ## Architecture
 ```
