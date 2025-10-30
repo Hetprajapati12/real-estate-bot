@@ -117,7 +117,7 @@ python ingest_data.py
 
 **Expected output:**
 ```
-✅ Data ingestion completed successfully!
+Data ingestion completed successfully!
 Vector store location: ./data/chroma_db
 ```
 
